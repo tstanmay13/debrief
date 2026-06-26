@@ -1,0 +1,16 @@
+{
+  "name": "tstanmay13-debrief",
+  "owner": {
+    "name": "Tanmay Singh"
+  },
+  "plugins": [
+    {
+      "name": "debrief",
+      "source": {
+        "source": "github",
+        "repo": "tstanmay13/debrief"
+      },
+      "description": "An end-of-session learning ritual that converts finished work into durable understanding — by making you recall and reconstruct it before filling any gaps, instead of letting the AI's fluency stand in for your own."
+    }
+  ]
+}
