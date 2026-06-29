@@ -1,5 +1,7 @@
 # debrief
 
+> Part of [**tstanmay13/claude-skills**](https://github.com/tstanmay13/claude-skills) — add one marketplace, get all my skills.
+
 A Claude Code skill that turns the end of a work session into actual learning — by making *you* reconstruct what happened before it hands you anything, so the AI's fluency stops standing in for your own understanding.
 
 ![debrief in action — asked "what did we learn?", it replies with a recall question instead of a summary](assets/demo.gif)
