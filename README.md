@@ -2,6 +2,10 @@
 
 A Claude Code skill that turns the end of a work session into actual learning — by making *you* reconstruct what happened before it hands you anything, so the AI's fluency stops standing in for your own understanding.
 
+![debrief in action — asked "what did we learn?", it replies with a recall question instead of a summary](assets/demo.gif)
+
+> *Illustrative example of the skill's output. Re-render with `vhs assets/demo.tape`.*
+
 ## The problem it fixes
 
 Working with a capable AI feels productive, and it is — for output. The code runs, the bug is fixed, the decision is made. But the work flows past so smoothly that it all *feels* understood, and you end the session no more able to do the thing yourself than when you started. That feeling of "yeah, I get it" is the symptom, not the evidence.
