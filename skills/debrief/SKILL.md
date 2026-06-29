@@ -1,9 +1,9 @@
 ---
 name: debrief
-description: Debrief a finished work session into actual learning instead of just output. Make the user recall and reconstruct what happened in their own words before you fill any gaps, catch the fluency illusion (feeling you learned something you only watched get done), and distill one or two durable, transferable lessons. Use when the user asks "what did we learn", "what have we learned this session", "did I actually learn this", "teach me what we just did", wants to reflect at the end of a session, or worries they're executing without understanding. Proactively offer it after a substantial build, debugging, or decision session. Do NOT use mid-task when the user just wants the work finished, for purely mechanical sessions with nothing transferable, or when the user wants a status summary or handoff notes rather than to learn.
+description: Debrief a finished work session into actual learning instead of just output. Make the user recall and reconstruct what happened in their own words before you fill any gaps, catch the fluency illusion (feeling you learned something you only watched get done), and distill one or two durable, transferable lessons. Use when the user asks "what did we learn", "what have we learned this session", "what are the takeaways", "did I actually learn this", "teach me what we just did", wants to reflect or wrap up at the end of a session, or worries they're executing without understanding. A "give me the takeaways / wrap-up" request still triggers — the skill turns it into recall rather than handing over a summary. Proactively offer it after a substantial build, debugging, or decision session. Do NOT use mid-task when the user just wants the work finished, for purely mechanical sessions with nothing transferable, or when the user wants a status summary or handoff notes rather than to learn.
 license: MIT
 metadata:
-  version: 0.1.0
+  version: 0.1.1
 ---
 
 # debrief

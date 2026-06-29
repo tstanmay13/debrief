@@ -1,7 +1,7 @@
 {
   "name": "debrief",
   "description": "An end-of-session learning ritual that converts finished work into durable understanding — by making you recall and reconstruct it before filling any gaps, instead of letting the AI's fluency stand in for your own.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": {
     "name": "Tanmay Singh"
   },

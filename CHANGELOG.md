@@ -4,6 +4,11 @@ All notable changes to the `debrief` skill are documented here.
 
 This project follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) and [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.1.1] — 2026-06-26
+
+### Changed
+- Added "what are the takeaways" / "wrap up" to the trigger phrases, with an explicit note that a takeaways/wrap-up request still triggers — the skill turns it into recall rather than handing over a summary. A triggering eval (3 independent judges per query) found "wrap up — what are the 3 takeaways?" split the judges 2/3; this sits on the skill's core recap-vs-recall boundary and should reliably engage. The re-test resolved it to consensus "trigger." The status-summary / handoff-notes exclusion remains intact.
+
 ## [0.1.0] — 2026-06-25
 
 Initial release.
